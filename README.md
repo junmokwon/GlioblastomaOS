@@ -1,6 +1,6 @@
 # GlioblastomaOS
 
-Please navigate [`loss.py`](http://loss.py) , [`prototype.py`](http://loss.py) , and [`train.py`](http://loss.py)  for implementation details.
+Please navigate `loss.py` , `prototype.py` , and `train.py`  for implementation details.
 
 # Simple Usage
 
