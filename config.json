@@ -1,0 +1,5 @@
+{
+    "min_survival_days": 30,
+    "max_survival_days": 1095,
+    "input_modalities": ["flair", "t1", "t1ce", "t2"]
+}
