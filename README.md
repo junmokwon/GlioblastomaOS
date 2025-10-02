@@ -6,17 +6,16 @@ Please navigate [`loss.py`](./loss.py) , [`prototype.py`](./prototype.py) , and 
 If you find this code useful in your research, please consider citing:
 
 ```
-    @article{kwon2024leveraging,
-	author={Kwon, Junmo and Kim, Jonghun and Park, Hyunjin},
-	title={Leveraging segmentation-guided spatial feature embedding for overall survival prediction in glioblastoma with multimodal magnetic resonance imaging},
-	journal={Computer Methods and Programs in Biomedicine},
-	volume = {255},
-	pages = {108338},
-	year = {2024},
-	issn = {0169-2607},
-	doi = {https://doi.org/10.1016/j.cmpb.2024.108338},
-	url = {https://www.sciencedirect.com/science/article/pii/S0169260724003316},
-    }
+@article{kwon2024leveraging,
+    title={Leveraging segmentation-guided spatial feature embedding for overall survival prediction in glioblastoma with multimodal magnetic resonance imaging},
+    author={Kwon, Junmo and Kim, Jonghun and Park, Hyunjin},
+    journal={Computer Methods and Programs in Biomedicine},
+    volume={255},
+    pages={108338},
+    year={2024},
+    doi={10.1016/j.cmpb.2024.108338},
+    publisher={Elsevier}
+}
 ```
 
 ## Simple Usage
